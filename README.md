@@ -36,3 +36,5 @@ The main Arduino code is available here: **[lightshow.ino](lightshow.ino)**
 4. **Row Patterns** - Lighting by rows
 5. **Pair Groups** - LEDs light up in pairs
 6. **Breathing Effect** - Fade in/out using PWM
+
+// Open for any opinion or suggestion!! :D
